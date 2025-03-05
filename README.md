@@ -90,7 +90,7 @@ yarn build
 3. **IOrderLot**
 Описание данных для отправки заказа на сервер:
 
-    payment, email, phone, address, total, items: Обязательные поля для оформления заказа.
+    - `payment, email, phone, address, total, items`: Обязательные поля для оформления заказа.
 
 4 **FormErrors**
 Определяет тип ошибок формы для каждого поля заказа (например, адрес, email, телефон).
